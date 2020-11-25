@@ -1,0 +1,26 @@
+Spatio Temporal Multi Cue and another paper:
+Spatio-Temporal Multi Cue network for SLR
+
+
+
+Transformer Advanced Models with Convolutional Attention Blocks or Higher than Vannila Transformers:
+
+
+
+Video Captioning Temporal Side Attention papers:
+
+
+
+Self Supervised Video Task Papers:
+
+
+
+Hand Pose Estimation, Keypoint Attention (Trained for Video Tasks):
+
+
+
+
+Camgoz 2 papers, TSP Net and Better Translation with STMC:
+Neural Sign Language Translation, Sign Language Transformers, Multi Channel Sign Language Transformers, TSPNet
+
+

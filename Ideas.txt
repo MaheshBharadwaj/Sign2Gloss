@@ -1,0 +1,32 @@
+Ideas
+
+General Ideas
+Entangled - replace the region proposal network and semantic segmenting network with Normal VGG encoding and Key point detector
+Use Image Transformers - joint probability distribution of pixels, parallel procesisng - image generation model converted to image representation model
+
+Image Encoding Plans
+Keypoint descriptors 
+Reduce max sequence size - histogram
+Vague Idea : Try to focus more on extracting features containing information about correlation between sequence images and not more on general encoding
+Try dropping frames - train transformer itself to predict which frames to drop - unsupervised, evaluate during testing
+
+
+Text side Ideas
+Ignore glosses, end to end training with images and translation sentences
+Use BLEU score and not accuracy
+
+Temporal
+Bidirectional
+Look into bigger transformers
+
+
+Model Compression Techniques
+Pruning, Quantization, Reduce bottleneck layers and FFN layer weights, Use weight sharing networks instead
+
+
+250
+1 image encode 1000 dimensional tensor
+file contains x images 
+250 - x - 1000 d zero tensors
+x.append(trainingexample)
+
